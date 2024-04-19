@@ -2,7 +2,6 @@
 <img width="1710" alt="Screenshot 2024-04-19 at 10 09 49 PM" src="https://github.com/tanvir-robin/Foodpanda-Web-Clone/assets/95021955/fc64ffc4-6c05-4dec-a3f4-3940eb790343">
 <img width="1710" alt="Screenshot 2024-04-19 at 10 09 44 PM" src="https://github.com/tanvir-robin/Foodpanda-Web-Clone/assets/95021955/81cc0dda-3a5c-400e-acdc-a2e3f7dba3cc">
 
-<img width="1710" alt="Screenshot 2024-04-19 at 10 09 44 PM" src="https://github.com/tanvir-robin/Foodpanda-Web-Clone/assets/95021955/1282757f-9e39-46bb-bef1-5090391385fe">
 
 
 ---
