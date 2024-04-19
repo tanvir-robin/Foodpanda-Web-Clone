@@ -24,20 +24,20 @@ Foodpanda offers a comprehensive solution for restaurant owners and customers. W
 To get started with Flitter Web, follow these steps:
 
 1. *Clone the Repository*: Clone the Flitter Web repository to your local machine using the following command:
-    ``
+    ```
    git clone https://github.com/yourusername/flitterweb.git
    cd <Project Folder>
-    ``
+    ```
 
 2. *Install Dependencies*: Navigate to the project directory and install dependencies by running:
-    ``
+    ```
    flutter pub get all
-    ``
+    ```
 
 3. *Start the Server*: Once the dependencies are installed and environment variables are set, start the server by running:
-    ``
+    ```
    flutter run
-    ``
+    ```
 
 5. *Access the Application*: Open your web browser and navigate to http://localhost:<port> to access the Flitter Web application. (This step will be automatically done by Flutter SDK)
 
